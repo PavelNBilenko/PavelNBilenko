@@ -22,6 +22,8 @@ I build digital products, research methods and practical tools that help industr
 
 **📊 PredictEconomy** — an experimental analytical system that transforms heterogeneous economic signals into transparent composite indicators and scenario-based interpretations.
 
+**⚙️ ProductValueChain** — an interactive value-chain mapping system for complex products, covering components, systems, manufacturers, suppliers, capabilities, and delivery processes.
+
 ## Focus
 
 **Industrial AI · Industrial Robotics · Industry 4.0 · Operational Excellence · Manufacturing Analytics · AI Agents · Additive Manufacturing**
