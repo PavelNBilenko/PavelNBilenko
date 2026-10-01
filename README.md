@@ -32,4 +32,4 @@ I am especially interested in systems where **people, machines, data and AI work
 
 ## Outside work
 
-Outside work, I am a husband and father of five kids, and I enjoy helping people grow, engineering, and 3D printing.
+I’m a husband and father of five. I enjoy helping people grow, creating things, engineering, and 3D printing.
